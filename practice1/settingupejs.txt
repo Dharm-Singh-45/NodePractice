@@ -1,0 +1,5 @@
+Setting up ejs pages 
+
+npm i ejs
+
+app/use('view','file name)
